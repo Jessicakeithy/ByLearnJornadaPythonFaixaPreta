@@ -1,4 +1,4 @@
 # ByLearnJornadaPythonFaixaPreta
 Atividade para fixação.
-Realizei a atividade do primeiro exeplo prático da Apostila.
+Realizei a atividade do primeiro exemplo prático da Apostila.
 Verificar aprovação e calcular média.
